@@ -14,6 +14,15 @@ La actividad fue realizada por los siguientes miembros:
 
 * **scraper_ins.py**: contiene el código del programa para generar el conjunto de datos propuesto desde el sitio web [Instagram](https://www.instagram.com/?hl=es-la)
 
+* **scraper_ins_file.py**: contiene el código del programa para descargar fotografía y video del  conjunto de datos generado con scraper_ins.py.
+
+## Licencia
+Este trabajo tiene licencia Creative Commons Attribution-NonCommmercial-ShareAlike 4.0 International.
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ## Recursos:
 
 1. Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
